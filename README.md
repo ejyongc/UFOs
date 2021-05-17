@@ -14,7 +14,7 @@ With these five filters the user can specify the *date* they'd like to review. W
 
 Here is an example of a very specific search where the user filtered the data to find UFO sightings in the shape of a triangle in the state of California during January 10th 2010. 
 
-![image](XXX)
+![image](https://github.com/ejyongc/UFOs/blob/main/Filtered%20Table%20Data.png)
 
 ## Summary
 
