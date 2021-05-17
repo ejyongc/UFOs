@@ -21,6 +21,6 @@ Here is an example of a very specific search where the user filtered the data to
 This report has allowed users to filter and find very specific information about UFO sightings. As we obtain feedback from users on what kind of data they'd like to see, we'd like to also add elements of our interactive page to help users on their research, for example: 
 
 1. We'd like to add a section on the page that provides total count and basic statistics of the data they just filtered for. For example we'd like to see the total count of UFO sights when we filter for a specific date or location. 
-2. The second element we'd like to add to the page is a visualization tool like a map. We believe that a map can help visualize large concentrations of UFO sightings, and it can also be overlayered with other points of interests.
+2. The second element we'd like to add to the page is a visualization tool like a map. We believe that a map can help visualize large concentrations of UFO sightings and it can also be overlayered with other points of interests.
 
 
